@@ -1,8 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
+author: "AntChanCPT"
+date: "04/06/2020"
+output: html_document
+keep_md: true
 ---
 
 This document was created to answer the questions defined in the Reproducible Research: Peer Assessment 1 assignment. 
